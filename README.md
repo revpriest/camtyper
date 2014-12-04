@@ -1,5 +1,5 @@
 A program to type characters if you ain't got
-no fingers by waving LED wants in front of
+no fingers by waving LED wands in front of
 the webcam.
 
 The webcam view is split into left and right
